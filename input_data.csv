@@ -1,0 +1,4 @@
+Company,TypeName,Ram,Weight,Touchscreen,IPS,ppi,Cpu Brand,Gpu Brand,os
+Apple,Ultrabook,8,1.34,0,0,127.67794013309688,Intel Core i5,Intel,Mac
+Dell,Ultrabook,8,1.37,0,1,226.98300468106115,Intel Core i5,Intel,Mac
+Asus,Ultrabook,8,1.37,0,1,226.98300468106115,Intel Core i5,Intel,Windows
